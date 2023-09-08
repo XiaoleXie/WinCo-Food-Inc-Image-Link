@@ -1,5 +1,5 @@
 # WinCo-Food-Inc-Image-Link
-Use Python to write codes to count overal image links for WinCo Food Inc and the missing links
+Use Python to write codes to count overall image links for WinCo Food Inc and the missing links
 
 import os.path
 import os
